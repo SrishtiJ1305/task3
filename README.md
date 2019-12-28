@@ -9,6 +9,7 @@ This is my work from the Google Code-in task Data Visualization in R with Lattic
 # Code Description
 The code below can be copied to R and executed as is.
 
+```
 #task3
 
 library(lattice)
@@ -23,7 +24,7 @@ View(data_lattice)
 #plot a scatter plot -make a plot from data shown above in two different panels, split by variable z -Make two data series on the same plot.
 
 cloud(W~X*Y, groups=data_lattice$Z, data_lattice)
-
+```
 
 # Author
 -Srishti 
