@@ -27,7 +27,7 @@ cloud(W~X*Y, groups=data_lattice$Z, data_lattice)
 ```
 
 # Author
--Srishti 
+- Srishti 
 
 # Screen Recording
 
