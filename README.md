@@ -26,9 +26,10 @@ View(data_lattice)
 cloud(W~X*Y, groups=data_lattice$Z, data_lattice)
 ```
 
-# Author
-- Srishti 
-
 # Screen Recording
 
 ![](http://g.recordit.co/SlfzQzqVUx.gif)
+
+# Author
+- Srishti 
+
