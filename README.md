@@ -10,7 +10,7 @@ This is my work from the Google Code-in task Data Visualization in R with Lattic
 The code below can be copied to R and executed as is.
 
 ```
-#task3
+#Data Visualization in R with Lattice Graphics
 
 library(lattice)
 
