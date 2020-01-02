@@ -33,10 +33,6 @@ cloud(E~I*G, groups=data_lattice3$H, data_lattice3)
 cloud(J~K*L, groups=data_lattice4$M, data_lattice4)
 ```
 
-# Screen Recording
-
-![](http://g.recordit.co/SlfzQzqVUx.gif)
-
 # Author
 - Srishti 
 
